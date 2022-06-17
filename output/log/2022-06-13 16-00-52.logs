@@ -1,0 +1,6 @@
+2022-06-13 16:00:52 [INFO] 参数： 1, 1  预期结果： 2 (test_calculator.py:60)
+2022-06-13 16:00:52 [INFO] 实际结果： 2 (test_calculator.py:63)
+2022-06-13 16:00:52 [INFO] 参数： -0.01, 0.02  预期结果： 0.01 (test_calculator.py:60)
+2022-06-13 16:00:52 [INFO] 实际结果： 0.01 (test_calculator.py:63)
+2022-06-13 16:00:52 [INFO] 参数： 10, 0.02  预期结果： 10.02 (test_calculator.py:60)
+2022-06-13 16:00:52 [INFO] 实际结果： 10.02 (test_calculator.py:63)

@@ -1,0 +1,8 @@
+2022-06-13 17:00:26 [INFO] 参数： None, 20.93  预期异常： TypeError (test_calculator.py:153)
+2022-06-13 17:00:26 [INFO] 实际异常： TypeError (test_calculator.py:157)
+2022-06-13 17:00:26 [INFO] 参数： -3, None  预期异常： TypeError (test_calculator.py:153)
+2022-06-13 17:00:26 [INFO] 实际异常： TypeError (test_calculator.py:157)
+2022-06-13 17:00:26 [INFO] 参数：  , 3.14  预期异常： TypeError (test_calculator.py:153)
+2022-06-13 17:00:26 [INFO] 实际异常： TypeError (test_calculator.py:157)
+2022-06-13 17:00:26 [INFO] 参数： -90,    预期异常： TypeError (test_calculator.py:153)
+2022-06-13 17:00:26 [INFO] 实际异常： TypeError (test_calculator.py:157)

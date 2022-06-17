@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_calculator.py:110 参数： 99, 0  预期结果： ZeroDivisionError
+[32mINFO    [0m root:test_calculator.py:118 实际异常： division by zero
