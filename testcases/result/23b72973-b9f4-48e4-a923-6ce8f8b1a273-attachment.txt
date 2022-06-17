@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_calculator.py:110 参数： -0.01, -0.02  预期结果： 0.5
-[32mINFO    [0m root:test_calculator.py:114 实际结果： 0.5

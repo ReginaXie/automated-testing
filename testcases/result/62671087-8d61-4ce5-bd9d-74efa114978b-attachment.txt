@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_calculator.py:128 参数： 2, 99.01  预期结果： 参数大小超出范围
-[32mINFO    [0m root:test_calculator.py:131 实际结果： 参数大小超出范围

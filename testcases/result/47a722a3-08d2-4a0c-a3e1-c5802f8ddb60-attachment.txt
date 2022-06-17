@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_calculator.py:141 参数： *&, 0.2  预期异常： TypeError
-[32mINFO    [0m root:test_calculator.py:145 实际异常： TypeError
