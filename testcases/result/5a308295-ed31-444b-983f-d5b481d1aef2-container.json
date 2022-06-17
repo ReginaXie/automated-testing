@@ -1,0 +1,1 @@
+{"uuid": "d4c40923-481b-4521-b356-e0f9acd4ed18", "children": ["bab3a7e4-0e69-40cf-939c-cd3648e9c41b"], "befores": [{"name": "clac_fix", "status": "passed", "start": 1655438523547, "stop": 1655438523547}], "afters": [{"name": "clac_fix::0", "status": "passed", "start": 1655438523550, "stop": 1655438523550}], "start": 1655438523547, "stop": 1655438523550}
